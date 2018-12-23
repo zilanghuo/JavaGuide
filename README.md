@@ -65,7 +65,7 @@
 ## :iphone: 操作系统
 
 - ### Linux相关
-  - [后端程序员必备的 Linux 基础知识](https://github.com/Snailclimb/Java-Guide/blob/master/操作系统/后端程序员必备的Linux基础知识.md)  
+  - [x] [后端程序员必备的 Linux 基础知识](https://github.com/Snailclimb/Java-Guide/blob/master/操作系统/后端程序员必备的Linux基础知识.md)  
 
 ## :pencil2: 主流框架/软件
 
